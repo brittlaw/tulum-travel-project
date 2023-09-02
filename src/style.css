@@ -137,6 +137,17 @@ main p {
     color: #1A6868;
     opacity: 0.7;
 }
+.embed {
+  width: 50%;
+  aspect-ratio: 1 /1;
+}
+
+.instagram-embeds {
+  margin: 30px 0;
+}
+.text-center {
+  text-align: center;
+}
 footer {
     color: white;
     background-image: linear-gradient(
